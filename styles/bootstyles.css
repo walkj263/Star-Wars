@@ -1,0 +1,33 @@
+.nav{
+    color: white!important;
+    text-align: right;
+}
+
+.nav a{
+    color: white!important;
+    size: 1000px!important;
+}
+
+#head{
+    font-size: 40px;
+}
+
+footer{
+    color: white!important;
+    text-align-last: center!important;
+}
+
+.copy{
+    font-size: 25px;
+}
+
+.tableauholder{
+    height: 90%;
+    width: 90%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }

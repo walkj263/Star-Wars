@@ -1,0 +1,35 @@
+/*Joshua Walkenhorst 12/9/21 */
+h1{
+    color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5rem !important;
+}
+
+h2{
+    color: blue;
+}
+
+h3{
+    color: green;
+}
+
+h4{
+    color: purple
+}
+
+body{
+    background-image:url(../images/starwars\ empty\ space.jpg) ;
+    color: yellow;
+}
+
+p{
+    font-weight: bold;
+}
+
+span{
+    color: yellow;
+}
+
+a{
+    color:red;
+}
